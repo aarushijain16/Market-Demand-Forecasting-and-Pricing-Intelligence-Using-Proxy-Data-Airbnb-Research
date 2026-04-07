@@ -1,4 +1,4 @@
-# Market-Demand-and-Pricing-Forecasting (Airbnb)
+# Market-Demand-and-Pricing-Forecasting 
 
 # Overview
 
