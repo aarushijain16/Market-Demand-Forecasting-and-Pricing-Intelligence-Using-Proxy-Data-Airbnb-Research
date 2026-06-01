@@ -1,4 +1,4 @@
-# Market-Demand-and-Pricing-Forecasting 
+# Market Demand Forecasting and Pricing Intelligence Using Proxy Data (Airbnb Research)
 
 # Overview
 
